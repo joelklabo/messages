@@ -1,0 +1,7 @@
+{
+  "name": "messages",
+  "author": "Joel Klabo <joelklabo@gmail.com>",
+  "dependencies": {
+    "redis": "*"
+  }
+}
