@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "redis": "0.8.1"
+    "mongodb": "~1.2.0"
   },
   "repository": "",
   "author": "Joel Klabo",
